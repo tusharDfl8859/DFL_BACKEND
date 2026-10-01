@@ -1,0 +1,1030 @@
+{
+    "TPL": {
+        "prefix": "T",
+        "services": [
+            {
+                "code": "TUS1",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 1,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS100",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS2",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 2,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS101",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS3",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 3,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS102",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS4",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 4,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS103",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS5",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 5,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS104",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS6",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 6,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS105",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS7",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 7,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS106",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS8",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 8,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS107",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUSPS",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "SMALL_PARCELS",
+                "partnerFullName": "United States Postal Service",
+                "displayName": "DFL EXPRESS - USPS",
+                "serviceCode": "DFLS134",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS -2 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 2",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS108",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS 3 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 3",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS109",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS 4 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 4",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS110",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS 5 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 5",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS111",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS 6 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 6",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS112",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS 7 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 7",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS113",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUS 8 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 8",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS114",
+                "carrierCode": 1,
+                "countryCode": "US"
+            },
+            {
+                "code": "TUK",
+                "country": "UK",
+                "transitTime": "7-8 Working Days",
+                "type": "HEAVY",
+                "displayName": "DFL EXPRESS - Standard Heavy",
+                "serviceCode": "DFLS115",
+                "carrierCode": 1,
+                "countryCode": "GB"
+            },
+            {
+                "code": "TAU1",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 1,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS116",
+                "carrierCode": 1,
+                "countryCode": "AU"
+            },
+            {
+                "code": "TAU2",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 2,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS117",
+                "carrierCode": 1,
+                "countryCode": "AU"
+            },
+            {
+                "code": "TAU3",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 3,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS118",
+                "carrierCode": 1,
+                "countryCode": "AU"
+            },
+            {
+                "code": "TAU4",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 4,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS119",
+                "carrierCode": 1,
+                "countryCode": "AU"
+            },
+            {
+                "code": "TAU5",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 5,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS120",
+                "carrierCode": 1,
+                "countryCode": "AU"
+            },
+            {
+                "code": "TFR",
+                "country": "FRANCE",
+                "transitTime": "7-8 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS121",
+                "carrierCode": 1,
+                "countryCode": "FR"
+            },
+            {
+                "code": "TDE",
+                "country": "GERMANY",
+                "transitTime": "7-8 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS122",
+                "carrierCode": 1,
+                "countryCode": "GE"
+            },
+            {
+                "code": "TNL",
+                "country": "NETHERLANDS",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS123",
+                "carrierCode": 1,
+                "countryCode": "NE"
+            },
+            {
+                "code": "TIE",
+                "country": "IRELAND",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS124",
+                "carrierCode": 1,
+                "countryCode": "IR"
+            },
+            {
+                "code": "TIT",
+                "country": "ITALY",
+                "transitTime": "8-10 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS125",
+                "carrierCode": 1,
+                "countryCode": "IT"
+            },
+            {
+                "code": "TES",
+                "country": "SPAIN",
+                "transitTime": "8-10 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS126",
+                "carrierCode": 1,
+                "countryCode": "SP"
+            },
+            {
+                "code": "TAS",
+                "country": "AUSTRIA",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS127",
+                "carrierCode": 1,
+                "countryCode": "AU"
+            },
+            {
+                "code": "TAT",
+                "country": "FINLAND",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS128",
+                "carrierCode": 1,
+                "countryCode": "FI"
+            },
+            {
+                "code": "TNZ1",
+                "country": "NEW ZEALAND",
+                "transitTime": "10-12 Working Days",
+                "zone": 1,
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS129",
+                "carrierCode": 1,
+                "countryCode": "NE"
+            },
+            {
+                "code": "TNZ2",
+                "country": "NEW ZEALAND",
+                "transitTime": "10-12 Working Days",
+                "zone": 2,
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS130",
+                "carrierCode": 1,
+                "countryCode": "NE"
+            },
+            {
+                "code": "TNZ3",
+                "country": "NEW ZEALAND",
+                "transitTime": "10-12 Working Days",
+                "zone": 3,
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS131",
+                "carrierCode": 1,
+                "countryCode": "NE"
+            },
+            {
+                "code": "TMX",
+                "country": "MEXICO",
+                "transitTime": "10-12 Working Days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS132",
+                "carrierCode": 1,
+                "countryCode": "ME"
+            },
+            {
+                "code": "TSA",
+                "country": "SAUDI ARABIA",
+                "transitTime": "10-12 Working Days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS133",
+                "carrierCode": 1,
+                "countryCode": "SA"
+            }
+        ]
+    },
+    "UNITED": {
+        "prefix": "U",
+        "services": [
+            {
+                "code": "SUK",
+                "country": "UK",
+                "transitTime": "5-6 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Priority Plus",
+                "serviceCode": "DFLS135",
+                "carrierCode": 2,
+                "countryCode": "GB"
+            },
+            {
+                "code": "UCA ecommerce",
+                "country": "CANADA",
+                "transitTime": "7-10 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Ecommerce",
+                "serviceCode": "DFLS136",
+                "carrierCode": 2,
+                "countryCode": "CA"
+            },
+            {
+                "code": "UCA",
+                "country": "CANADA",
+                "transitTime": "7-10 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS137",
+                "carrierCode": 2,
+                "countryCode": "CA"
+            }
+        ]
+    },
+    "SKYNET": {
+        "prefix": "S",
+        "services": [
+            {
+                "code": "SAE",
+                "country": "UAE",
+                "transitTime": "7-10 Working Days",
+                "partnerFullName": "Skynet",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS138",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET EX DXB PREMIUM",
+                "countryCode": "AE"
+            },
+            {
+                "code": "S CA 1",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 1",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS139",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 2",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 2",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS140",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 3",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 3",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS141",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 4",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 4",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS142",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 5",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 5",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS143",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 6",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 6",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS144",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 7",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 7",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS145",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 8",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 8",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS146",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 9",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 9",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS147",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 10",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 10",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS148",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 11",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 11",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS149",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 12",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 12",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS150",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 13",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 13",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS151",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 14",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 14",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS152",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 15",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 15",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS153",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S CA 16",
+                "country": "CANADA",
+                "transitTime": "10-12 Working Days",
+                "zone": "S CA 16",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS154",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET CANADA YVR",
+                "countryCode": "CA"
+            },
+            {
+                "code": "S IT",
+                "country": "Italy",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS155",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET PREMIUM DDP",
+                "countryCode": "IT"
+            },
+            {
+                "code": "S IE",
+                "country": "Ireland",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS156",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET PREMIUM DDP",
+                "countryCode": "IE"
+            },
+            {
+                "code": "S NL",
+                "country": "Netherlands",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS157",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET PREMIUM DDP",
+                "countryCode": "NL"
+            },
+            {
+                "code": "S FR",
+                "country": "France",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS158",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET PREMIUM DDP",
+                "countryCode": "FR"
+            },
+            {
+                "code": "S DE",
+                "country": "Germany",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS159",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET PREMIUM DDP",
+                "countryCode": "DE"
+            },
+            {
+                "code": "S ES",
+                "country": "Spain",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS160",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET PREMIUM DDP",
+                "countryCode": "ES"
+            },
+            {
+                "code": "S AT",
+                "country": "Austria",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS161",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET PREMIUM DDP",
+                "countryCode": "AT"
+            },
+            {
+                "code": "S AUS1",
+                "country": "Australia",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy Heavy",
+                "serviceCode": "DFLS190",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET SAVER",
+                "countryCode": "AU"
+            },
+            {
+                "code": "S AUS2",
+                "country": "Australia",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy Heavy",
+                "serviceCode": "DFLS191",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET SAVER",
+                "countryCode": "AU"
+            },
+            {
+                "code": "S AUS3",
+                "country": "Australia",
+                "transitTime": "10-12 working days",
+                "displayName": "DFL EXPRESS - Economy Heavy",
+                "serviceCode": "DFLS192",
+                "carrierCode": 3,
+                "skynetBillingCode": "SKYNET SAVER",
+                "countryCode": "AU"
+            },
+            {
+                "code": "S SAU",
+                "country": "Saudi Arabia",
+                "transitTime": "14-15 working days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS193",
+                "carrierCode": 3,
+                "skynetBillingCode": "",
+                "countryCode": "SA"
+            }
+        ]
+    },
+    "SKYNET-ECOMMERCE": {
+        "prefix": "S-ECO",
+        "services": [
+            {
+                "code": "S USA-GA",
+                "country": "USA",
+                "transitTime": "11-13 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy Ground",
+                "serviceCode": "DFLS162",
+                "skynetBillingCode": "EMS",
+                "carrierCode": 4,
+                "countryCode": "US"
+            },
+            {
+                "code": "S USA-Saver",
+                "country": "USA",
+                "transitTime": "13-15 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Super Saver",
+                "serviceCode": "DFLS163",
+                "skynetBillingCode": "EMS",
+                "carrierCode": 4,
+                "countryCode": "US"
+            },
+            {
+                "code": "S CA",
+                "country": "Canada",
+                "transitTime": "12-14 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy Saver",
+                "serviceCode": "DFLS164",
+                "skynetBillingCode": "SNPD_CA",
+                "carrierCode": 4,
+                "countryCode": "CA"
+            },
+            {
+                "code": "S GB",
+                "country": "UK",
+                "transitTime": "9-10 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy Saver",
+                "serviceCode": "DFLS165",
+                "skynetBillingCode": "SNPD_RM",
+                "carrierCode": 4,
+                "countryCode": "GB"
+            },
+            {
+                "code": "S GB_Evri",
+                "country": "UK",
+                "transitTime": "9-10 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Swift",
+                "serviceCode": "DFLS166",
+                "skynetBillingCode": "SNPD_EV",
+                "carrierCode": 4,
+                "countryCode": "GB"
+            },
+            {
+                "code": "S MY",
+                "country": "Malaysia",
+                "transitTime": "5-8 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Priority",
+                "serviceCode": "DFLS167",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "MY"
+            },
+            {
+                "code": "S SG",
+                "country": "Singapore",
+                "transitTime": "5-8 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Priority",
+                "serviceCode": "DFLS168",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "SG"
+            },
+            {
+                "code": "S AU",
+                "country": "Australia",
+                "transitTime": "8-10 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Standard Express",
+                "serviceCode": "DFLS169",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "AU"
+            },
+            {
+                "code": "S UAE",
+                "country": "UAE",
+                "transitTime": "5-8 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Priority",
+                "serviceCode": "DFLS170",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "AE"
+            },
+            {
+                "code": "S BEL",
+                "country": "Belgium",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS171",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "BE"
+            },
+            {
+                "code": "S BGR",
+                "country": "Bulgaria",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS172",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "BG"
+            },
+            {
+                "code": "S HRV",
+                "country": "Croatia",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS173",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "HR"
+            },
+            {
+                "code": "S CYP",
+                "country": "Cyprus",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS174",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "CY"
+            },
+            {
+                "code": "S CZE",
+                "country": "Czech Republic",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS175",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "CZ"
+            },
+            {
+                "code": "S DNK",
+                "country": "Denmark",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS176",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "DK"
+            },
+            {
+                "code": "S EST",
+                "country": "Estonia",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS177",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "EE"
+            },
+            {
+                "code": "S FIN",
+                "country": "Finland",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS178",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "FI"
+            },
+            {
+                "code": "S GRC",
+                "country": "Greece",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS179",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "GR"
+            },
+            {
+                "code": "S HUN",
+                "country": "Hungary",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS180",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "HU"
+            },
+            {
+                "code": "S LVA",
+                "country": "Latvia",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS181",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "LV"
+            },
+            {
+                "code": "S LTU",
+                "country": "Lithuania",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS182",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "LT"
+            },
+            {
+                "code": "S LUX",
+                "country": "Luxembourg",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS183",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "LU"
+            },
+            {
+                "code": "S MLT",
+                "country": "Malta",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS184",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "MA"
+            },
+            {
+                "code": "S POL",
+                "country": "Poland",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS185",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "PL"
+            },
+            {
+                "code": "S PRT",
+                "country": "Portugal",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS186",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "PT"
+            },
+            {
+                "code": "S ROU",
+                "country": "Romania",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS187",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "RO"
+            },
+            {
+                "code": "S SVN",
+                "country": "Slovenia",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS188",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "SI"
+            },
+            {
+                "code": "S SWE",
+                "country": "Sweden",
+                "transitTime": "10-12 working days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS189",
+                "skynetBillingCode": "SNPD",
+                "carrierCode": 4,
+                "countryCode": "SE"
+            }
+        ]
+    },
+    "RSA": {
+        "prefix": "R",
+        "services": [
+            {
+                "code": "RSA-UK-STD",
+                "country": "UK",
+                "transitTime": "5-8 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS Standard",
+                "serviceCode": "RSAS100",
+                "carrierCode": 5,
+                "countryCode": "GB"
+            },
+            {
+                "code": "RSA-UK-PRIORITY",
+                "country": "UK",
+                "transitTime": "3-5 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS Priority",
+                "serviceCode": "RSAS101",
+                "carrierCode": 5,
+                "countryCode": "GB"
+            }
+        ]
+    }
+}

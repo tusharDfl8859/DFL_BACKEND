@@ -1,0 +1,4 @@
+{
+  "ignore": ["public/*", "Backend/public/*", "Frontend/*"],
+  "ext": "js,json"
+}

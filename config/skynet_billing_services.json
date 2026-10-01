@@ -1,0 +1,220 @@
+{
+  "booking_services": [
+    {
+      "id": 1,
+      "sector": "AUSTRALIA DIRECT",
+      "flight_schedule": "Tue, Thu, Sat (As per Load)",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "8-10 days",
+      "service_code": "AU-SKY-DOX/NDOX-DEL",
+      "note": "<= 20KG PER BOX"
+    },
+    {
+      "id": 2,
+      "sector": "AUSTRALIA SKYSAVER",
+      "flight_schedule": "Daily",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "10-15 days",
+      "service_code": "AU-SKY-ECO-DEL",
+      "note": "<= 20KG PER BOX"
+    },
+    {
+      "id": 3,
+      "sector": "NEW ZEALAND DIRECT",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "4:00 pm",
+      "transit_time": "8-10 days",
+      "service_code": "NZ-SKY-DOX/NDOX-DEL",
+      "note": "<= 25KG PER BOX"
+    },
+    {
+      "id": 4,
+      "sector": "CANADA YVR-DDP",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "4:00 pm",
+      "transit_time": "8-10 days",
+      "service_code": "CA-PUR-DOX/NDOX-DEL-DDP-V",
+      "note": "Beyond Code charge will be applicable IN CANADA"
+    },
+    {
+      "id": 5,
+      "sector": "CANADA YYZ-DDP",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "4:00 pm",
+      "transit_time": "8-10 days",
+      "service_code": "CA-PUR-DOX/NDOX-DEL-DDP-T",
+      "note": "Beyond Code charge will be applicable IN CANADA"
+    },
+    {
+      "id": 6,
+      "sector": "CANADA YUL-DDP",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "4:00 pm",
+      "transit_time": "8-10 days",
+      "service_code": "CA-PUR-DOX/NDOX-DEL-DDP-M",
+      "note": "Beyond Code charge will be applicable IN CANADA"
+    },
+    {
+      "id": 7,
+      "sector": "MALAYSIA DIRECT",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "4:00 pm",
+      "transit_time": "4-5 days",
+      "service_code": "MYS",
+      "note": "(DDU/DDP)"
+    },
+    {
+      "id": 8,
+      "sector": "UNITED KINGDOM DIRECT",
+      "flight_schedule": "Daily",
+      "cut_off_time": "5:00 pm",
+      "transit_time": "4-5 days",
+      "service_code": "UK-SKY-DOX/NDOX-DEL",
+      "note": "<= 30KG PER BOX"
+    },
+    {
+      "id": 9,
+      "sector": "USA GROUND DIRECT",
+      "flight_schedule": "Tue, Thu, Sat",
+      "cut_off_time": "4:00 pm",
+      "transit_time": "8-10 days",
+      "service_code": "USA-SKY-GROUND-EXPRESS",
+      "note": "<= 20KG PER BOX"
+    },
+    {
+      "id": 10,
+      "sector": "MIDDLE EAST via DXB",
+      "flight_schedule": "Daily",
+      "cut_off_time": "5:30 pm",
+      "transit_time": "3-4 days",
+      "service_code": "DXB-SKY-DOX/NDOX-DEL",
+      "note": "\"DDU\""
+    },
+    {
+      "id": 11,
+      "sector": "FAR EAST via SIN",
+      "flight_schedule": "Daily",
+      "cut_off_time": "2:00 pm",
+      "transit_time": "3-4 days",
+      "service_code": "SIN-SKY-DOX/NDOX-DEL",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "sector": "EUROPE",
+      "flight_schedule": "Tue, Thu, Sat",
+      "cut_off_time": "5:00 pm",
+      "transit_time": "10-12 days",
+      "service_code": "FRA-SKY-DOX/NDOX-DEL",
+      "note": "<= 30KG PER BOX"
+    },
+    {
+      "id": 13,
+      "sector": "HONG KONG DIRECT",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "4:00 pm",
+      "transit_time": "3-4 days",
+      "service_code": "HK-SKY-DOX/NDOX-DEL",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "sector": "NEPAL DIRECT",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "4-5 days",
+      "service_code": "NP-SKY-DOX/NDOX-DEL",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "sector": "SAUDI ARABIA",
+      "flight_schedule": "Wed, Sat",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "5-6 days",
+      "service_code": "SA-SKY-DOX/NDOX-DEL",
+      "note": "NATIONAL ADDRESS & CR"
+    },
+    {
+      "id": 16,
+      "sector": "BAHRAIN DIRECT",
+      "flight_schedule": "Sat",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "5-6 days",
+      "service_code": "BH-SKY-DOX/NDOX-DEL",
+      "note": "MIN. WEIGHT 45 KG REQUIRED"
+    },
+    {
+      "id": 17,
+      "sector": "KUWAIT DIRECT",
+      "flight_schedule": "Sat",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "5-6 days",
+      "service_code": "KW-SKY-DOX/NDOX-DEL",
+      "note": "MIN. WEIGHT 45 KG REQUIRED"
+    },
+    {
+      "id": 18,
+      "sector": "QATAR DIRECT",
+      "flight_schedule": "Sat",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "5-6 days",
+      "service_code": "QA-SKY-DOX/NDOX-DEL",
+      "note": "MIN. WEIGHT 45 KG REQUIRED \"DDP\""
+    },
+    {
+      "id": 19,
+      "sector": "OMAN DIRECT",
+      "flight_schedule": "Sat",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "5-6 days",
+      "service_code": "OM-SKY-DOX/NDOX-DEL",
+      "note": "MIN. WEIGHT 45 KG REQUIRED"
+    },
+    {
+      "id": 20,
+      "sector": "SRI LANKA DIRECT",
+      "flight_schedule": "Sat",
+      "cut_off_time": "6:00 pm",
+      "transit_time": "5-6 days",
+      "service_code": "LK-SKY-DOX/NDOX-DEL",
+      "note": "MIN. WEIGHT 45 KG REQUIRED"
+    },
+    {
+      "id": 21,
+      "sector": "CHINA DIRECT",
+      "flight_schedule": "Sat",
+      "cut_off_time": "5-6 days",
+      "transit_time": "5-6 days",
+      "service_code": "CN-SKY-DEL",
+      "note": "MIN. WEIGHT 45 KG REQUIRED"
+    },
+    {
+      "id": 22,
+      "sector": "BRANDED",
+      "flight_schedule": "Daily",
+      "cut_off_time": "5:30 pm",
+      "transit_time": "4-5 days",
+      "service_code": "UPS; FEDEX; DHL",
+      "note": "CONTACT WITH \"KEY MANAGER\""
+    },
+    {
+      "id": 23,
+      "sector": "E-COMMERCE",
+      "flight_schedule": "Daily",
+      "cut_off_time": "5:30 pm",
+      "transit_time": "3-4 days",
+      "service_code": "Rates are cheaper from courier up to 3kg",
+      "note": "CONTACT WITH \"KEY MANAGER\" New A/C needed for"
+    },
+    {
+      "id": 24,
+      "sector": "IMPORT",
+      "flight_schedule": "Daily",
+      "cut_off_time": "",
+      "transit_time": "5-6 days",
+      "service_code": "GST 18% EXTRA",
+      "note": "CONTACT WITH \"KEY MANAGER\" New A/C needed for"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+    "TPL": {
+        "prefix": "T",
+        "services": [
+            {
+                "code": "TUS1",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 1,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS100",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS2",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 2,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS101",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS3",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 3,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS102",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS4",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 4,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS103",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS5",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 5,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS104",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS6",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 6,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS105",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS7",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 7,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS106",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS8",
+                "country": "USA",
+                "transitTime": "7-8 Working Days",
+                "zone": 8,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS107",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS -2 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 2",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS108",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS 3 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 3",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS109",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS 4 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 4",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS110",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS 5 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 5",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS111",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS 6 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 6",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS112",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS 7 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 7",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS113",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUS 8 (FBA & CO )",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "FBA",
+                "zoneMatch": "TUS 8",
+                "displayName": "DFL EXPRESS - FBA",
+                "serviceCode": "DFLS114",
+                "carrierCode": 1
+            },
+            {
+                "code": "TUK",
+                "country": "UK",
+                "transitTime": "7-8 Working Days",
+                "type": "HEAVY",
+                "displayName": "DFL EXPRESS - Standard Heavy",
+                "serviceCode": "DFLS115",
+                "carrierCode": 1
+            },
+            {
+                "code": "TAU1",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 1,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS116",
+                "carrierCode": 1
+            },
+            {
+                "code": "TAU2",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 2,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS117",
+                "carrierCode": 1
+            },
+            {
+                "code": "TAU3",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 3,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS118",
+                "carrierCode": 1
+            },
+            {
+                "code": "TAU4",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 4,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS119",
+                "carrierCode": 1
+            },
+            {
+                "code": "TAU5",
+                "country": "AUSTRALIA",
+                "transitTime": "8-12 Working Days",
+                "zone": 5,
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS120",
+                "carrierCode": 1
+            },
+            {
+                "code": "TFR",
+                "country": "FRANCE",
+                "transitTime": "7-8 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS121",
+                "carrierCode": 1
+            },
+            {
+                "code": "TDE",
+                "country": "GERMANY",
+                "transitTime": "7-8 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS122",
+                "carrierCode": 1
+            },
+            {
+                "code": "TNL",
+                "country": "NETHERLANDS",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS123",
+                "carrierCode": 1
+            },
+            {
+                "code": "TIE",
+                "country": "IRELAND",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS124",
+                "carrierCode": 1
+            },
+            {
+                "code": "TIT",
+                "country": "ITALY",
+                "transitTime": "8-10 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS125",
+                "carrierCode": 1
+            },
+            {
+                "code": "TES",
+                "country": "SPAIN",
+                "transitTime": "8-10 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS126",
+                "carrierCode": 1
+            },
+            {
+                "code": "TAS",
+                "country": "AUSTRIA",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS127",
+                "carrierCode": 1
+            },
+            {
+                "code": "TAT",
+                "country": "FINLAND",
+                "transitTime": "8-12 Working Days",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS128",
+                "carrierCode": 1
+            },
+            {
+                "code": "TNZ1",
+                "country": "NEW ZEALAND",
+                "transitTime": "10-12 Working Days",
+                "zone": 1,
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS129",
+                "carrierCode": 1
+            },
+            {
+                "code": "TNZ2",
+                "country": "NEW ZEALAND",
+                "transitTime": "10-12 Working Days",
+                "zone": 2,
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS130",
+                "carrierCode": 1
+            },
+            {
+                "code": "TNZ3",
+                "country": "NEW ZEALAND",
+                "transitTime": "10-12 Working Days",
+                "zone": 3,
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS131",
+                "carrierCode": 1
+            },
+            {
+                "code": "TMX",
+                "country": "MEXICO",
+                "transitTime": "10-12 Working Days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS132",
+                "carrierCode": 1
+            },
+            {
+                "code": "TSA",
+                "country": "SAUDI ARABIA",
+                "transitTime": "10-12 Working Days",
+                "displayName": "DFL EXPRESS - Economy",
+                "serviceCode": "DFLS133",
+                "carrierCode": 1
+            }
+        ]
+    },
+    "UNITED": {
+        "prefix": "U",
+        "services": [
+            {
+                "code": "UUSPS",
+                "country": "USA",
+                "transitTime": "7-10 Working Days",
+                "type": "SMALL_PARCELS",
+                "partnerFullName": "United States Postal Service",
+                "displayName": "DFL EXPRESS - USPS",
+                "serviceCode": "DFLS134",
+                "carrierCode": 2
+            },
+            {
+                "code": "SUK",
+                "country": "UK",
+                "transitTime": "5-6 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Priority Plus",
+                "serviceCode": "DFLS135",
+                "carrierCode": 2
+            },
+            {
+                "code": "UCA ecommerce",
+                "country": "CANADA",
+                "transitTime": "7-10 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Ecommerce",
+                "serviceCode": "DFLS136",
+                "carrierCode": 2
+            },
+            {
+                "code": "UCA",
+                "country": "CANADA",
+                "transitTime": "7-10 Working Days",
+                "type": "SMALL_PARCELS",
+                "displayName": "DFL EXPRESS - Standard",
+                "serviceCode": "DFLS137",
+                "carrierCode": 2
+            }
+        ]
+    }
+}
